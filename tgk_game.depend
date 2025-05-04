@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1746350910 source:c:\users\admin\onedrive\desktop\game\tgk_game\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<algorithm>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
